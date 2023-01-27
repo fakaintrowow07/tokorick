@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.2265" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/fragment_bayar.xml" value="0.4" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/fragment_laporan.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/fragment_produk.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/fragment_transaksi.xml" value="0.12158054711246201" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/item_laporan.xml" value="0.12158054711246201" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/item_produk.xml" value="0.2" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/item_spinner.xml" value="0.12158054711246201" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/item_transaksi.xml" value="0.264" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/layout/sort_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/menu/buttom_nav.xml" value="0.25" />
+        <entry key="..\:/Tugas Kuliah/Indraa/PCSapp-main/app/src/main/res/menu/fav.xml" value="0.24895833333333334" />
+        <entry key="..\:/Tugas Kuliah/Indraa/Tokoku-KLP/app/src/main/res/layout/fragment_laporan.xml" value="0.25" />
+        <entry key="..\:/Tugas Kuliah/Indraa/Tokoku-KLP/app/src/main/res/layout/fragment_produk.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas Kuliah/Indraa/Tokoku-KLP/app/src/main/res/layout/fragment_transaksi.xml" value="0.25" />
+        <entry key="..\:/Tugas Kuliah/Indraa/Tokoku-KLP/app/src/main/res/layout/item_produk.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas Kuliah/Indraa/Tokoku-KLP/app/src/main/res/layout/item_transaksi.xml" value="0.18885869565217392" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
